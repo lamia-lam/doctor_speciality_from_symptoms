@@ -1,0 +1,49 @@
+abdominal adhesions
+acute kidney injury
+alzheimer disease
+aortic stenosis
+aspiration pneumonia
+bacteremia
+bronchitis
+bronchospasm
+candidiasis
+cardiomyopathy
+cellulitis
+cholecystitis
+cholelithiasis
+colitis
+coronary artery disease
+deglutition disorder
+dehydration
+diabetic ketoacidosis
+diverticulitis
+diverticulosis
+emphysema
+encephalopathy
+endocarditis
+exanthema
+fluid overload
+gastritis
+hemiparesis
+hernia
+hiatal hernia
+ileus
+kidney failure
+liver cancer
+lymphoma
+mitral regurgitation
+morbid obesity
+obesity
+osteoporosis
+pancreatitis
+pancytopenia
+parkinson disease
+pericardial effusion
+pulmonary hypertension
+pyelonephritis
+sickle cell anemia
+sinus tachycardia
+thrombocytopenia
+transient ischemic attack
+tricuspid regurgitation
+urinary incontinence

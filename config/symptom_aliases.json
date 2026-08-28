@@ -1,0 +1,1108 @@
+{
+  "abdominal_pain": [
+    "abdominal discomfort",
+    "abdominal pain",
+    "abdominal_pain",
+    "belly pain",
+    "gut pain",
+    "pain in stomach",
+    "stomach ache",
+    "stomach cramp",
+    "stomach hurts",
+    "tummy ache"
+  ],
+  "abnormal_menstruation": [
+    "abnormal menstruation",
+    "abnormal periods",
+    "abnormal_menstruation",
+    "heavy periods",
+    "irregular periods",
+    "late period",
+    "menstrual problems",
+    "missed period",
+    "painful periods",
+    "period issues"
+  ],
+  "acidity": [
+    "acid indigestion",
+    "acid reflux",
+    "acidity",
+    "burning in chest",
+    "burning in throat after eating",
+    "heartburn",
+    "sour stomach"
+  ],
+  "acute_liver_failure": [
+    "acute liver failure",
+    "acute_liver_failure"
+  ],
+  "altered_sensorium": [
+    "altered consciousness",
+    "altered sensorium",
+    "altered_sensorium",
+    "confused",
+    "confusion",
+    "disoriented",
+    "mental confusion",
+    "not responsive",
+    "semi conscious"
+  ],
+  "anxiety": [
+    "anxiety",
+    "anxious",
+    "excessive worry",
+    "feeling anxious",
+    "nervous",
+    "nervousness",
+    "panic",
+    "panic attack",
+    "worried"
+  ],
+  "back_pain": [
+    "back ache",
+    "back hurts",
+    "back pain",
+    "back_pain",
+    "backache",
+    "lower back pain",
+    "pain in back",
+    "spinal pain",
+    "upper back pain"
+  ],
+  "belly_pain": [
+    "belly ache",
+    "belly pain",
+    "belly_pain",
+    "lower stomach pain",
+    "pain in belly",
+    "tummy pain"
+  ],
+  "blackheads": [
+    "blackheads"
+  ],
+  "bladder_discomfort": [
+    "bladder discomfort",
+    "bladder pressure",
+    "bladder_discomfort",
+    "pain in bladder",
+    "pain while urinating",
+    "uncomfortable bladder",
+    "urinary discomfort"
+  ],
+  "blister": [
+    "blister",
+    "blisters",
+    "fluid filled bumps",
+    "skin blisters",
+    "water blisters"
+  ],
+  "blood_in_sputum": [
+    "blood in phlegm",
+    "blood in sputum",
+    "blood when coughing",
+    "blood_in_sputum",
+    "bloody cough",
+    "coughing up blood",
+    "hemoptysis"
+  ],
+  "bloody_stool": [
+    "blood in feces",
+    "blood in poop",
+    "blood in stool",
+    "blood when using bathroom",
+    "bloody stool",
+    "bloody_stool",
+    "red stool"
+  ],
+  "blurred_and_distorted_vision": [
+    "blurred and distorted vision",
+    "blurred vision",
+    "blurred_and_distorted_vision",
+    "blurry vision",
+    "can't see clearly",
+    "hazy vision",
+    "poor vision",
+    "vision problems"
+  ],
+  "bone_pain": [
+    "bone pain",
+    "bone_pain"
+  ],
+  "breast_lump": [
+    "breast lump",
+    "breast_lump"
+  ],
+  "breast_pain": [
+    "breast pain",
+    "breast_pain"
+  ],
+  "breathlessness": [
+    "breathing problems",
+    "breathlessness",
+    "can't breathe",
+    "difficulty breathing",
+    "dyspnea",
+    "hard to breathe",
+    "labored breathing",
+    "out of breath",
+    "shortness of breath"
+  ],
+  "brittle_nails": [
+    "brittle nails",
+    "brittle_nails",
+    "fragile nails",
+    "nails breaking",
+    "nails snap easily",
+    "weak nails"
+  ],
+  "bruising": [
+    "bruising"
+  ],
+  "burning_micturition": [
+    "burning micturition",
+    "burning pee",
+    "burning sensation when urinating",
+    "burning when urinating",
+    "burning_micturition",
+    "pain during urination",
+    "pain when peeing",
+    "stinging when urinating"
+  ],
+  "chest_pain": [
+    "chest discomfort",
+    "chest hurts",
+    "chest pain",
+    "chest pressure",
+    "chest tightness",
+    "chest_pain",
+    "heart pain",
+    "pain in chest",
+    "sternal pain"
+  ],
+  "chills": [
+    "chills",
+    "cold chills",
+    "feeling cold",
+    "goosebumps",
+    "rigors",
+    "shaking with cold",
+    "shivering"
+  ],
+  "cold_hands_and_feets": [
+    "cold feet",
+    "cold fingers and toes",
+    "cold hands",
+    "cold hands and feets",
+    "cold_hands_and_feets",
+    "extremities cold",
+    "hands and feet are cold"
+  ],
+  "coma": [
+    "coma"
+  ],
+  "confusion": [
+    "confusion"
+  ],
+  "congestion": [
+    "blocked nose",
+    "blocked sinuses",
+    "congestion",
+    "nasal blockage",
+    "nasal congestion",
+    "nose blocked",
+    "stuffy nose"
+  ],
+  "constipation": [
+    "can't poop",
+    "constipation",
+    "difficult defecation",
+    "difficulty passing stool",
+    "hard stool",
+    "infrequent stool",
+    "no bowel movement"
+  ],
+  "continuous_feel_of_urine": [
+    "always feel like urinating",
+    "always need to urinate",
+    "constant urge to pee",
+    "continuous feel of urine",
+    "continuous_feel_of_urine",
+    "frequent urge to urinate",
+    "urinary urgency"
+  ],
+  "continuous_sneezing": [
+    "can't stop sneezing",
+    "continuous sneezing",
+    "continuous_sneezing",
+    "fits of sneezing",
+    "repeated sneezing",
+    "sneezing a lot",
+    "sneezing constantly"
+  ],
+  "cough": [
+    "bad cough",
+    "chest cough",
+    "cough",
+    "coughing",
+    "dry cough",
+    "hacking cough",
+    "persistent cough",
+    "wet cough"
+  ],
+  "cramps": [
+    "cramping",
+    "cramps",
+    "leg cramps",
+    "muscle cramps",
+    "painful contractions",
+    "spasm",
+    "stomach cramps"
+  ],
+  "cyanosis": [
+    "cyanosis"
+  ],
+  "dark_urine": [
+    "brown urine",
+    "dark pee",
+    "dark urine",
+    "dark_urine",
+    "discolored urine",
+    "tea colored urine",
+    "urine is dark",
+    "yellow dark pee"
+  ],
+  "dehydration": [
+    "dehydrated",
+    "dehydration",
+    "dry mouth from dehydration",
+    "excessive thirst",
+    "not enough fluids",
+    "very thirsty"
+  ],
+  "depression": [
+    "depression",
+    "feeling depressed",
+    "feeling down",
+    "feeling hopeless",
+    "low mood",
+    "melancholy",
+    "sad",
+    "very sad"
+  ],
+  "diarrhoea": [
+    "diarrhea",
+    "diarrhoea",
+    "frequent loose stool",
+    "loose motions",
+    "loose stool",
+    "runny poop",
+    "runs",
+    "watery stool"
+  ],
+  "difficulty_seeing_at_night": [
+    "difficulty seeing at night",
+    "difficulty_seeing_at_night"
+  ],
+  "discharge_from_eyes": [
+    "discharge from eyes",
+    "discharge_from_eyes"
+  ],
+  "dischromic_patches": [
+    "dischromic patches",
+    "dischromic_patches"
+  ],
+  "distention_of_abdomen": [
+    "distention of abdomen",
+    "distention_of_abdomen"
+  ],
+  "dizziness": [
+    "dizziness",
+    "dizzy",
+    "feel faint",
+    "feeling dizzy",
+    "light headed",
+    "lightheaded",
+    "room spinning",
+    "vertigo"
+  ],
+  "drying_and_tingling_lips": [
+    "drying and tingling lips",
+    "drying_and_tingling_lips"
+  ],
+  "ear_pain": [
+    "ear pain",
+    "ear_pain"
+  ],
+  "enlarged_thyroid": [
+    "enlarged neck",
+    "enlarged thyroid",
+    "enlarged_thyroid",
+    "goiter",
+    "neck swelling",
+    "swollen thyroid",
+    "thyroid swelling"
+  ],
+  "excessive_hunger": [
+    "always hungry",
+    "can't stop eating",
+    "constantly hungry",
+    "excessive hunger",
+    "excessive_hunger",
+    "extreme hunger",
+    "insatiable appetite",
+    "polyphagia"
+  ],
+  "extra_marital_contacts": [
+    "extra marital contacts",
+    "extra_marital_contacts"
+  ],
+  "family_history": [
+    "family history",
+    "family_history",
+    "genetic history",
+    "hereditary condition",
+    "runs in family"
+  ],
+  "fast_heart_rate": [
+    "elevated heart rate",
+    "fast heart rate",
+    "fast_heart_rate",
+    "heart pounding",
+    "heart racing",
+    "palpitations",
+    "racing pulse",
+    "rapid heartbeat",
+    "tachycardia"
+  ],
+  "fatigue": [
+    "drained",
+    "exhausted",
+    "exhaustion",
+    "fatigue",
+    "feeling weak",
+    "lack of energy",
+    "lethargy",
+    "no energy",
+    "run down",
+    "tired",
+    "tiredness",
+    "weakness"
+  ],
+  "fever": [
+    "fever"
+  ],
+  "fluid_overload": [
+    "fluid overload",
+    "fluid_overload"
+  ],
+  "foul_smell_of_urine": [
+    "bad smell in pee",
+    "foul smell of urine",
+    "foul_smell_of_urine",
+    "pungent urine",
+    "smelly urine",
+    "urine has odd smell",
+    "urine smells bad"
+  ],
+  "frequent_urination": [
+    "frequent urination",
+    "frequent_urination"
+  ],
+  "headache": [
+    "head ache",
+    "head hurts",
+    "head pain",
+    "headache",
+    "migraine",
+    "pain in head",
+    "pressure in head",
+    "throbbing head"
+  ],
+  "high_fever": [
+    "burning up",
+    "high fever",
+    "high temperature",
+    "high_fever",
+    "running high fever",
+    "severe fever",
+    "temp is very high",
+    "very high fever"
+  ],
+  "hip_joint_pain": [
+    "hip ache",
+    "hip discomfort",
+    "hip joint pain",
+    "hip pain",
+    "hip_joint_pain",
+    "pain in hip"
+  ],
+  "history_of_alcohol_consumption": [
+    "history of alcohol consumption",
+    "history_of_alcohol_consumption"
+  ],
+  "hoarse_voice": [
+    "hoarse voice",
+    "hoarse_voice"
+  ],
+  "increased_appetite": [
+    "increased appetite",
+    "increased_appetite"
+  ],
+  "indigestion": [
+    "bloating after eating",
+    "can't digest food",
+    "dyspepsia",
+    "indigestion",
+    "stomach fullness",
+    "stomach upset",
+    "upset stomach"
+  ],
+  "inflammatory_nails": [
+    "inflamed nails",
+    "inflammatory nails",
+    "inflammatory_nails",
+    "painful nails",
+    "swollen nail beds"
+  ],
+  "insomnia": [
+    "insomnia"
+  ],
+  "internal_itching": [
+    "internal itching",
+    "internal_itching"
+  ],
+  "irregular_sugar_level": [
+    "irregular sugar level",
+    "irregular_sugar_level"
+  ],
+  "irritability": [
+    "agitated",
+    "easily annoyed",
+    "easily irritated",
+    "hot tempered",
+    "irritability",
+    "irritable",
+    "short tempered"
+  ],
+  "irritation_in_anus": [
+    "irritation in anus",
+    "irritation_in_anus"
+  ],
+  "itching": [
+    "itchiness",
+    "itching",
+    "itchy",
+    "itchy skin",
+    "pruritus",
+    "scratching",
+    "skin itching",
+    "urge to scratch"
+  ],
+  "joint_pain": [
+    "achy joints",
+    "arthralgia",
+    "joint ache",
+    "joint discomfort",
+    "joint pain",
+    "joint_pain",
+    "joints hurting",
+    "painful joints"
+  ],
+  "knee_pain": [
+    "knee ache",
+    "knee hurts",
+    "knee pain",
+    "knee_pain",
+    "pain in knee",
+    "sore knee"
+  ],
+  "lack_of_concentration": [
+    "brain fog",
+    "can't focus",
+    "difficulty concentrating",
+    "hard to focus",
+    "lack of concentration",
+    "lack_of_concentration",
+    "poor concentration"
+  ],
+  "lethargy": [
+    "feeling lazy",
+    "heavy limbs",
+    "lethargic",
+    "lethargy",
+    "no motivation",
+    "sluggish",
+    "very tired"
+  ],
+  "loss_of_appetite": [
+    "can't eat",
+    "don't want to eat",
+    "loss of appetite",
+    "loss_of_appetite",
+    "no appetite",
+    "not feeling like eating",
+    "not hungry",
+    "reduced appetite"
+  ],
+  "loss_of_balance": [
+    "can't balance",
+    "falling over",
+    "loss of balance",
+    "loss_of_balance",
+    "off balance",
+    "poor balance",
+    "unsteady",
+    "unsteady on feet"
+  ],
+  "loss_of_consciousness": [
+    "loss of consciousness",
+    "loss_of_consciousness"
+  ],
+  "loss_of_smell": [
+    "anosmia",
+    "can't smell",
+    "loss of smell",
+    "loss_of_smell",
+    "lost smell",
+    "no sense of smell",
+    "unable to smell"
+  ],
+  "malaise": [
+    "feeling ill",
+    "feeling unwell",
+    "general discomfort",
+    "malaise",
+    "not feeling well",
+    "under the weather"
+  ],
+  "mild_fever": [
+    "low grade fever",
+    "mild fever",
+    "mild_fever",
+    "mildly feverish",
+    "slight fever",
+    "temperature slightly elevated",
+    "warm forehead"
+  ],
+  "mood_swings": [
+    "emotional",
+    "emotional instability",
+    "emotional swings",
+    "mood changes",
+    "mood swings",
+    "mood_swings",
+    "rapidly changing mood"
+  ],
+  "movement_stiffness": [
+    "can't move freely",
+    "joint stiffness",
+    "morning stiffness",
+    "movement stiffness",
+    "movement_stiffness",
+    "rigid joints",
+    "stiff joints",
+    "stiffness when moving"
+  ],
+  "mucoid_sputum": [
+    "coughing up mucus",
+    "mucoid sputum",
+    "mucoid_sputum",
+    "mucus in cough",
+    "mucus when coughing",
+    "phlegmy cough",
+    "thick cough"
+  ],
+  "muscle_pain": [
+    "aching muscles",
+    "body aches",
+    "body pain",
+    "muscle ache",
+    "muscle pain",
+    "muscle_pain",
+    "muscles hurt",
+    "myalgia",
+    "sore muscles"
+  ],
+  "muscle_wasting": [
+    "muscle wasting",
+    "muscle_wasting"
+  ],
+  "muscle_weakness": [
+    "can't lift things",
+    "loss of muscle strength",
+    "muscle fatigue",
+    "muscle weakness",
+    "muscle_weakness",
+    "muscles feel weak",
+    "weak muscles"
+  ],
+  "nausea": [
+    "feel like vomiting",
+    "feeling nauseous",
+    "nausea",
+    "nauseated",
+    "queasy",
+    "sick feeling",
+    "sick to my stomach",
+    "want to throw up"
+  ],
+  "neck_pain": [
+    "cervical pain",
+    "neck ache",
+    "neck hurts",
+    "neck pain",
+    "neck_pain",
+    "pain in neck",
+    "stiff neck"
+  ],
+  "night_sweats": [
+    "night sweats",
+    "night_sweats"
+  ],
+  "nodal_skin_eruptions": [
+    "nodal skin eruptions",
+    "nodal_skin_eruptions"
+  ],
+  "obesity": [
+    "gained a lot of weight",
+    "high bmi",
+    "obese",
+    "obesity",
+    "overweight",
+    "very overweight"
+  ],
+  "pain": [
+    "pain"
+  ],
+  "pain_behind_the_eyes": [
+    "behind eye pain",
+    "eye socket pain",
+    "orbital pain",
+    "pain behind eyes",
+    "pain behind the eyes",
+    "pain_behind_the_eyes"
+  ],
+  "pain_during_bowel_movements": [
+    "hurts when using bathroom",
+    "pain during bowel movements",
+    "pain when going to toilet",
+    "pain when passing stool",
+    "pain_during_bowel_movements",
+    "painful defecation"
+  ],
+  "pain_during_swallowing": [
+    "pain during swallowing",
+    "pain_during_swallowing"
+  ],
+  "pain_in_anal_region": [
+    "pain in anal region",
+    "pain_in_anal_region"
+  ],
+  "painful_walking": [
+    "painful walking",
+    "painful_walking"
+  ],
+  "pale_skin": [
+    "pale skin",
+    "pale_skin"
+  ],
+  "palpitations": [
+    "heart fluttering",
+    "heart pounding",
+    "heart skipping a beat",
+    "irregular heartbeat",
+    "palpitations",
+    "racing heart"
+  ],
+  "passage_of_gases": [
+    "bloated with gas",
+    "excessive gas",
+    "farting too much",
+    "flatulence",
+    "gas",
+    "passage of gases",
+    "passage_of_gases",
+    "passing gas"
+  ],
+  "patches_in_throat": [
+    "exudate in throat",
+    "patches in throat",
+    "patches_in_throat",
+    "spots in throat",
+    "throat patches",
+    "white patches in throat"
+  ],
+  "phlegm": [
+    "chest congestion",
+    "coughing up mucus",
+    "mucus",
+    "phlegm",
+    "phlegm in throat",
+    "productive cough"
+  ],
+  "polyuria": [
+    "excessive urination",
+    "frequent urination",
+    "nocturia",
+    "peeing a lot",
+    "polyuria",
+    "urinating a lot",
+    "urinating frequently"
+  ],
+  "prominent_veins_on_calf": [
+    "prominent veins on calf",
+    "prominent_veins_on_calf"
+  ],
+  "puffy_face_and_eyes": [
+    "edema on face",
+    "eye swelling",
+    "face puffiness",
+    "puffy eyes",
+    "puffy face and eyes",
+    "puffy_face_and_eyes",
+    "swollen face"
+  ],
+  "pus_filled_pimples": [
+    "acne with pus",
+    "pimples with pus",
+    "pus filled pimples",
+    "pus_filled_pimples",
+    "pustules",
+    "white head pimples",
+    "zits with pus"
+  ],
+  "receiving_blood_transfusion": [
+    "receiving blood transfusion",
+    "receiving_blood_transfusion"
+  ],
+  "receiving_unsterile_injections": [
+    "receiving unsterile injections",
+    "receiving_unsterile_injections"
+  ],
+  "red_sore_around_nose": [
+    "red sore around nose",
+    "red_sore_around_nose"
+  ],
+  "red_spots_over_body": [
+    "red spots over body",
+    "red_spots_over_body"
+  ],
+  "redness": [
+    "redness"
+  ],
+  "redness_of_eyes": [
+    "bloodshot eyes",
+    "eyes are red",
+    "irritated eyes",
+    "pink eye",
+    "red eyes",
+    "redness of eyes",
+    "redness_of_eyes"
+  ],
+  "restlessness": [
+    "agitated",
+    "can't sit still",
+    "fidgety",
+    "restless",
+    "restlessness",
+    "unable to relax",
+    "uneasy"
+  ],
+  "runny_nose": [
+    "nasal discharge",
+    "nose dripping",
+    "nose running",
+    "runny nose",
+    "runny_nose",
+    "snot running"
+  ],
+  "rusty_sputum": [
+    "rusty sputum",
+    "rusty_sputum"
+  ],
+  "scurring": [
+    "scurring"
+  ],
+  "sensitivity_to_light": [
+    "sensitivity to light",
+    "sensitivity_to_light"
+  ],
+  "shivering": [
+    "body shakes",
+    "shaking",
+    "shaking with cold",
+    "shivering",
+    "trembling",
+    "uncontrollable shaking"
+  ],
+  "silver_like_dusting": [
+    "silver like dusting",
+    "silver_like_dusting"
+  ],
+  "sinus_pressure": [
+    "facial pressure",
+    "pain in sinuses",
+    "pressure around nose",
+    "sinus headache",
+    "sinus pain",
+    "sinus pressure",
+    "sinus_pressure"
+  ],
+  "skin_peeling": [
+    "flaky skin",
+    "peeling skin",
+    "skin flaking",
+    "skin is peeling off",
+    "skin peeling",
+    "skin shedding",
+    "skin_peeling"
+  ],
+  "skin_rash": [
+    "body rash",
+    "breakout",
+    "hives",
+    "rash",
+    "rash on skin",
+    "red rash",
+    "skin bumps",
+    "skin eruption",
+    "skin rash",
+    "skin_rash"
+  ],
+  "sleep_disturbance": [
+    "sleep disturbance",
+    "sleep_disturbance"
+  ],
+  "slurred_speech": [
+    "can't speak clearly",
+    "mumbling",
+    "slurred speech",
+    "slurred_speech",
+    "speech slurred",
+    "thick speech",
+    "words slurred"
+  ],
+  "small_dents_in_nails": [
+    "small dents in nails",
+    "small_dents_in_nails"
+  ],
+  "sore_throat": [
+    "sore throat",
+    "sore_throat"
+  ],
+  "spinning_movements": [
+    "dizzy with spinning",
+    "room spinning",
+    "spinning movements",
+    "spinning sensation",
+    "spinning_movements",
+    "things are spinning",
+    "vertigo"
+  ],
+  "spotting_urination": [
+    "blood spots in urine",
+    "blood when urinating",
+    "pink urine",
+    "spotting urination",
+    "spotting_urination",
+    "trace blood in urine"
+  ],
+  "stiff_neck": [
+    "can't move neck",
+    "neck is stiff",
+    "neck stiff",
+    "rigid neck",
+    "stiff neck",
+    "stiff_neck",
+    "stiffness in neck"
+  ],
+  "stomach_bleeding": [
+    "stomach bleeding",
+    "stomach_bleeding"
+  ],
+  "stomach_pain": [
+    "abdominal discomfort",
+    "pain in stomach",
+    "stomach ache",
+    "stomach discomfort",
+    "stomach pain",
+    "stomach_pain",
+    "tummy pain"
+  ],
+  "sunken_eyes": [
+    "sunken eyes",
+    "sunken_eyes"
+  ],
+  "sweating": [
+    "drenched in sweat",
+    "excessive sweating",
+    "night sweats",
+    "profuse sweating",
+    "sweating",
+    "sweating a lot",
+    "sweats"
+  ],
+  "swelled_lymph_nodes": [
+    "glands in neck swollen",
+    "lumps in neck",
+    "lymph nodes enlarged",
+    "swelled lymph nodes",
+    "swelled_lymph_nodes",
+    "swollen glands",
+    "swollen lymph nodes"
+  ],
+  "swelling_joints": [
+    "inflamed joints",
+    "joint swelling",
+    "joints are swollen",
+    "puffy joints",
+    "swelling joints",
+    "swelling_joints",
+    "swollen joints"
+  ],
+  "swelling_of_stomach": [
+    "abdominal bloating",
+    "bloated stomach",
+    "distended abdomen",
+    "pot belly",
+    "stomach bloated",
+    "stomach swollen",
+    "swelling of stomach",
+    "swelling_of_stomach"
+  ],
+  "swollen_blood_vessels": [
+    "swollen blood vessels",
+    "swollen_blood_vessels"
+  ],
+  "swollen_extremeties": [
+    "swollen extremeties",
+    "swollen_extremeties"
+  ],
+  "swollen_legs": [
+    "edema in legs",
+    "leg swelling",
+    "legs are swollen",
+    "puffy legs",
+    "swollen ankles",
+    "swollen legs",
+    "swollen_legs"
+  ],
+  "throat_irritation": [
+    "irritated throat",
+    "itchy throat",
+    "scratchy throat",
+    "throat bothers me",
+    "throat discomfort",
+    "throat irritation",
+    "throat_irritation"
+  ],
+  "toxic_look_typhos": [
+    "toxic look typhos",
+    "toxic_look_typhos"
+  ],
+  "ulcers_on_tongue": [
+    "ulcers on tongue",
+    "ulcers_on_tongue"
+  ],
+  "unsteadiness": [
+    "can't walk straight",
+    "imbalance",
+    "staggering",
+    "unsteadiness",
+    "unsteady walking",
+    "wobbly"
+  ],
+  "visual_disturbances": [
+    "flashes of light",
+    "seeing spots",
+    "seeing things",
+    "vision problems",
+    "visual aura",
+    "visual disturbances",
+    "visual_disturbances"
+  ],
+  "vomiting": [
+    "emesis",
+    "nausea and vomiting",
+    "puking",
+    "retching",
+    "sick and vomiting",
+    "throwing up",
+    "vomit",
+    "vomiting"
+  ],
+  "watering_from_eyes": [
+    "excessive tearing",
+    "eyes dripping",
+    "eyes watering",
+    "tears",
+    "teary eyes",
+    "watering from eyes",
+    "watering_from_eyes"
+  ],
+  "weakness_in_limbs": [
+    "arm weakness",
+    "can't lift arm",
+    "legs feel weak",
+    "limb weakness",
+    "weak arms and legs",
+    "weakness in limbs",
+    "weakness_in_limbs"
+  ],
+  "weakness_of_one_body_side": [
+    "half body weak",
+    "hemiplegia",
+    "left side weak",
+    "one sided weakness",
+    "right side weak",
+    "weakness of one body side",
+    "weakness_of_one_body_side"
+  ],
+  "weight_gain": [
+    "body weight increase",
+    "gaining weight",
+    "getting fatter",
+    "putting on weight",
+    "weight gain",
+    "weight has increased",
+    "weight_gain"
+  ],
+  "weight_loss": [
+    "getting thinner",
+    "losing weight",
+    "lost weight",
+    "unintentional weight loss",
+    "weight has dropped",
+    "weight loss",
+    "weight_loss"
+  ],
+  "wheezing": [
+    "wheezing"
+  ],
+  "yellow_crust_ooze": [
+    "yellow crust ooze",
+    "yellow_crust_ooze"
+  ],
+  "yellow_urine": [
+    "yellow urine",
+    "yellow_urine"
+  ],
+  "yellowing_of_eyes": [
+    "eyes turned yellow",
+    "jaundice eyes",
+    "scleral icterus",
+    "whites of eyes yellow",
+    "yellow eyes",
+    "yellowing of eyes",
+    "yellowing_of_eyes"
+  ],
+  "yellowish_skin": [
+    "golden skin",
+    "jaundice",
+    "skin is yellow",
+    "skin turned yellow",
+    "yellow skin",
+    "yellowish skin",
+    "yellowish_skin"
+  ]
+}

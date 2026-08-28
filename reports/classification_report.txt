@@ -1,0 +1,28 @@
+                    precision    recall  f1-score   support
+
+         Allergist       1.00      1.00      1.00         7
+      Cardiologist       0.78      1.00      0.88         7
+     Dermatologist       1.00      1.00      1.00         7
+   Endocrinologist       1.00      0.88      0.93         8
+Gastroenterologist       1.00      0.88      0.93         8
+   General Surgeon       0.88      1.00      0.93         7
+      Gynecologist       1.00      1.00      1.00         8
+      Hematologist       1.00      1.00      1.00         7
+      Hepatologist       1.00      1.00      1.00         8
+Infectious Disease       1.00      1.00      1.00        10
+ Internal Medicine       1.00      1.00      1.00         5
+      Nephrologist       1.00      0.86      0.92         7
+       Neurologist       1.00      1.00      1.00         6
+        Oncologist       1.00      1.00      1.00         8
+   Ophthalmologist       1.00      1.00      1.00         8
+        Orthopedic       0.86      0.75      0.80         8
+  Otolaryngologist       1.00      1.00      1.00         6
+      Phlebologist       1.00      1.00      1.00         7
+      Psychiatrist       1.00      1.00      1.00         8
+     Pulmonologist       0.86      0.86      0.86         7
+    Rheumatologist       0.78      0.88      0.82         8
+         Urologist       1.00      1.00      1.00        10
+
+          accuracy                           0.96       165
+         macro avg       0.96      0.96      0.96       165
+      weighted avg       0.96      0.96      0.96       165
