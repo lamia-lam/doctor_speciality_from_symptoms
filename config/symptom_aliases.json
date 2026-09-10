@@ -32,10 +32,7 @@
     "heartburn",
     "sour stomach"
   ],
-  "acute_liver_failure": [
-    "acute liver failure",
-    "acute_liver_failure"
-  ],
+  "acute_liver_failure": ["acute liver failure", "acute_liver_failure"],
   "altered_sensorium": [
     "altered consciousness",
     "altered sensorium",
@@ -77,9 +74,7 @@
     "pain in belly",
     "tummy pain"
   ],
-  "blackheads": [
-    "blackheads"
-  ],
+  "blackheads": ["blackheads"],
   "bladder_discomfort": [
     "bladder discomfort",
     "bladder pressure",
@@ -124,18 +119,9 @@
     "poor vision",
     "vision problems"
   ],
-  "bone_pain": [
-    "bone pain",
-    "bone_pain"
-  ],
-  "breast_lump": [
-    "breast lump",
-    "breast_lump"
-  ],
-  "breast_pain": [
-    "breast pain",
-    "breast_pain"
-  ],
+  "bone_pain": ["bone pain", "bone_pain"],
+  "breast_lump": ["breast lump", "breast_lump"],
+  "breast_pain": ["breast pain", "breast_pain"],
   "breathlessness": [
     "breathing problems",
     "breathlessness",
@@ -155,9 +141,7 @@
     "nails snap easily",
     "weak nails"
   ],
-  "bruising": [
-    "bruising"
-  ],
+  "bruising": ["bruising"],
   "burning_micturition": [
     "burning micturition",
     "burning pee",
@@ -197,12 +181,8 @@
     "extremities cold",
     "hands and feet are cold"
   ],
-  "coma": [
-    "coma"
-  ],
-  "confusion": [
-    "confusion"
-  ],
+  "coma": ["coma"],
+  "confusion": ["confusion"],
   "congestion": [
     "blocked nose",
     "blocked sinuses",
@@ -258,9 +238,7 @@
     "spasm",
     "stomach cramps"
   ],
-  "cyanosis": [
-    "cyanosis"
-  ],
+  "cyanosis": ["cyanosis"],
   "dark_urine": [
     "brown urine",
     "dark pee",
@@ -303,18 +281,9 @@
     "difficulty seeing at night",
     "difficulty_seeing_at_night"
   ],
-  "discharge_from_eyes": [
-    "discharge from eyes",
-    "discharge_from_eyes"
-  ],
-  "dischromic_patches": [
-    "dischromic patches",
-    "dischromic_patches"
-  ],
-  "distention_of_abdomen": [
-    "distention of abdomen",
-    "distention_of_abdomen"
-  ],
+  "discharge_from_eyes": ["discharge from eyes", "discharge_from_eyes"],
+  "dischromic_patches": ["dischromic patches", "dischromic_patches"],
+  "distention_of_abdomen": ["distention of abdomen", "distention_of_abdomen"],
   "dizziness": [
     "dizziness",
     "dizzy",
@@ -329,10 +298,7 @@
     "drying and tingling lips",
     "drying_and_tingling_lips"
   ],
-  "ear_pain": [
-    "ear pain",
-    "ear_pain"
-  ],
+  "ear_pain": ["ear pain", "ear_pain"],
   "enlarged_thyroid": [
     "enlarged neck",
     "enlarged thyroid",
@@ -388,13 +354,8 @@
     "tiredness",
     "weakness"
   ],
-  "fever": [
-    "fever"
-  ],
-  "fluid_overload": [
-    "fluid overload",
-    "fluid_overload"
-  ],
+  "fever": ["fever"],
+  "fluid_overload": ["fluid overload", "fluid_overload"],
   "foul_smell_of_urine": [
     "bad smell in pee",
     "foul smell of urine",
@@ -404,10 +365,7 @@
     "urine has odd smell",
     "urine smells bad"
   ],
-  "frequent_urination": [
-    "frequent urination",
-    "frequent_urination"
-  ],
+  "frequent_urination": ["frequent urination", "frequent_urination"],
   "headache": [
     "head ache",
     "head hurts",
@@ -440,14 +398,8 @@
     "history of alcohol consumption",
     "history_of_alcohol_consumption"
   ],
-  "hoarse_voice": [
-    "hoarse voice",
-    "hoarse_voice"
-  ],
-  "increased_appetite": [
-    "increased appetite",
-    "increased_appetite"
-  ],
+  "hoarse_voice": ["hoarse voice", "hoarse_voice"],
+  "increased_appetite": ["increased appetite", "increased_appetite"],
   "indigestion": [
     "bloating after eating",
     "can't digest food",
@@ -464,17 +416,9 @@
     "painful nails",
     "swollen nail beds"
   ],
-  "insomnia": [
-    "insomnia"
-  ],
-  "internal_itching": [
-    "internal itching",
-    "internal_itching"
-  ],
-  "irregular_sugar_level": [
-    "irregular sugar level",
-    "irregular_sugar_level"
-  ],
+  "insomnia": ["insomnia"],
+  "internal_itching": ["internal itching", "internal_itching"],
+  "irregular_sugar_level": ["irregular sugar level", "irregular_sugar_level"],
   "irritability": [
     "agitated",
     "easily annoyed",
@@ -484,10 +428,7 @@
     "irritable",
     "short tempered"
   ],
-  "irritation_in_anus": [
-    "irritation in anus",
-    "irritation_in_anus"
-  ],
+  "irritation_in_anus": ["irritation in anus", "irritation_in_anus"],
   "itching": [
     "itchiness",
     "itching",
@@ -554,10 +495,7 @@
     "unsteady",
     "unsteady on feet"
   ],
-  "loss_of_consciousness": [
-    "loss of consciousness",
-    "loss_of_consciousness"
-  ],
+  "loss_of_consciousness": ["loss of consciousness", "loss_of_consciousness"],
   "loss_of_smell": [
     "anosmia",
     "can't smell",
@@ -623,10 +561,7 @@
     "myalgia",
     "sore muscles"
   ],
-  "muscle_wasting": [
-    "muscle wasting",
-    "muscle_wasting"
-  ],
+  "muscle_wasting": ["muscle wasting", "muscle_wasting"],
   "muscle_weakness": [
     "can't lift things",
     "loss of muscle strength",
@@ -655,14 +590,8 @@
     "pain in neck",
     "stiff neck"
   ],
-  "night_sweats": [
-    "night sweats",
-    "night_sweats"
-  ],
-  "nodal_skin_eruptions": [
-    "nodal skin eruptions",
-    "nodal_skin_eruptions"
-  ],
+  "night_sweats": ["night sweats", "night_sweats"],
+  "nodal_skin_eruptions": ["nodal skin eruptions", "nodal_skin_eruptions"],
   "obesity": [
     "gained a lot of weight",
     "high bmi",
@@ -671,9 +600,7 @@
     "overweight",
     "very overweight"
   ],
-  "pain": [
-    "pain"
-  ],
+  "pain": ["pain"],
   "pain_behind_the_eyes": [
     "behind eye pain",
     "eye socket pain",
@@ -694,18 +621,9 @@
     "pain during swallowing",
     "pain_during_swallowing"
   ],
-  "pain_in_anal_region": [
-    "pain in anal region",
-    "pain_in_anal_region"
-  ],
-  "painful_walking": [
-    "painful walking",
-    "painful_walking"
-  ],
-  "pale_skin": [
-    "pale skin",
-    "pale_skin"
-  ],
+  "pain_in_anal_region": ["pain in anal region", "pain_in_anal_region"],
+  "painful_walking": ["painful walking", "painful_walking"],
+  "pale_skin": ["pale skin", "pale_skin"],
   "palpitations": [
     "heart fluttering",
     "heart pounding",
@@ -779,17 +697,9 @@
     "receiving unsterile injections",
     "receiving_unsterile_injections"
   ],
-  "red_sore_around_nose": [
-    "red sore around nose",
-    "red_sore_around_nose"
-  ],
-  "red_spots_over_body": [
-    "red spots over body",
-    "red_spots_over_body"
-  ],
-  "redness": [
-    "redness"
-  ],
+  "red_sore_around_nose": ["red sore around nose", "red_sore_around_nose"],
+  "red_spots_over_body": ["red spots over body", "red_spots_over_body"],
+  "redness": ["redness"],
   "redness_of_eyes": [
     "bloodshot eyes",
     "eyes are red",
@@ -816,17 +726,9 @@
     "runny_nose",
     "snot running"
   ],
-  "rusty_sputum": [
-    "rusty sputum",
-    "rusty_sputum"
-  ],
-  "scurring": [
-    "scurring"
-  ],
-  "sensitivity_to_light": [
-    "sensitivity to light",
-    "sensitivity_to_light"
-  ],
+  "rusty_sputum": ["rusty sputum", "rusty_sputum"],
+  "scurring": ["scurring"],
+  "sensitivity_to_light": ["sensitivity to light", "sensitivity_to_light"],
   "shivering": [
     "body shakes",
     "shaking",
@@ -835,10 +737,7 @@
     "trembling",
     "uncontrollable shaking"
   ],
-  "silver_like_dusting": [
-    "silver like dusting",
-    "silver_like_dusting"
-  ],
+  "silver_like_dusting": ["silver like dusting", "silver_like_dusting"],
   "sinus_pressure": [
     "facial pressure",
     "pain in sinuses",
@@ -869,10 +768,7 @@
     "skin rash",
     "skin_rash"
   ],
-  "sleep_disturbance": [
-    "sleep disturbance",
-    "sleep_disturbance"
-  ],
+  "sleep_disturbance": ["sleep disturbance", "sleep_disturbance"],
   "slurred_speech": [
     "can't speak clearly",
     "mumbling",
@@ -882,14 +778,8 @@
     "thick speech",
     "words slurred"
   ],
-  "small_dents_in_nails": [
-    "small dents in nails",
-    "small_dents_in_nails"
-  ],
-  "sore_throat": [
-    "sore throat",
-    "sore_throat"
-  ],
+  "small_dents_in_nails": ["small dents in nails", "small_dents_in_nails"],
+  "sore_throat": ["sore throat", "sore_throat"],
   "spinning_movements": [
     "dizzy with spinning",
     "room spinning",
@@ -916,10 +806,7 @@
     "stiff_neck",
     "stiffness in neck"
   ],
-  "stomach_bleeding": [
-    "stomach bleeding",
-    "stomach_bleeding"
-  ],
+  "stomach_bleeding": ["stomach bleeding", "stomach_bleeding"],
   "stomach_pain": [
     "abdominal discomfort",
     "pain in stomach",
@@ -929,10 +816,7 @@
     "stomach_pain",
     "tummy pain"
   ],
-  "sunken_eyes": [
-    "sunken eyes",
-    "sunken_eyes"
-  ],
+  "sunken_eyes": ["sunken eyes", "sunken_eyes"],
   "sweating": [
     "drenched in sweat",
     "excessive sweating",
@@ -970,14 +854,8 @@
     "swelling of stomach",
     "swelling_of_stomach"
   ],
-  "swollen_blood_vessels": [
-    "swollen blood vessels",
-    "swollen_blood_vessels"
-  ],
-  "swollen_extremeties": [
-    "swollen extremeties",
-    "swollen_extremeties"
-  ],
+  "swollen_blood_vessels": ["swollen blood vessels", "swollen_blood_vessels"],
+  "swollen_extremeties": ["swollen extremeties", "swollen_extremeties"],
   "swollen_legs": [
     "edema in legs",
     "leg swelling",
@@ -996,14 +874,8 @@
     "throat irritation",
     "throat_irritation"
   ],
-  "toxic_look_typhos": [
-    "toxic look typhos",
-    "toxic_look_typhos"
-  ],
-  "ulcers_on_tongue": [
-    "ulcers on tongue",
-    "ulcers_on_tongue"
-  ],
+  "toxic_look_typhos": ["toxic look typhos", "toxic_look_typhos"],
+  "ulcers_on_tongue": ["ulcers on tongue", "ulcers_on_tongue"],
   "unsteadiness": [
     "can't walk straight",
     "imbalance",
@@ -1076,17 +948,9 @@
     "weight loss",
     "weight_loss"
   ],
-  "wheezing": [
-    "wheezing"
-  ],
-  "yellow_crust_ooze": [
-    "yellow crust ooze",
-    "yellow_crust_ooze"
-  ],
-  "yellow_urine": [
-    "yellow urine",
-    "yellow_urine"
-  ],
+  "wheezing": ["wheezing"],
+  "yellow_crust_ooze": ["yellow crust ooze", "yellow_crust_ooze"],
+  "yellow_urine": ["yellow urine", "yellow_urine"],
   "yellowing_of_eyes": [
     "eyes turned yellow",
     "jaundice eyes",

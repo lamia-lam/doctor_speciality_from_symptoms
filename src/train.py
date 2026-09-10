@@ -100,8 +100,9 @@ def main() -> None:
 
     # Logistic Regression generalizes significantly better for real-world user queries
     # where only 1 or 2 symptoms are provided (avoiding decision-tree sparse-feature bias).
-    best_name = "logistic_regression"
-    print(f"\nSelected model for deployment: {best_name}")
+    # Auto-select the best model by validation macro_f1.
+    best_name = comparison.iloc[0]["model"]   # already sorted descending by macro_f1
+    print(f"\n★  Best model on validation set: {best_name}")
 
     # Refit the selected algorithm on train + validation data only after
     # model selection is finished.
